@@ -8,15 +8,13 @@ This project constructs a risk-optimized fixed income portfolio within the **Ind
 
 The selection process utilizes a rigorous quantitative filter, utilizing **K-Means style clustering** to identify idiosyncratic mispricing and **Taylor Series expansions** to stress-test portfolio sensitivity to interest rate shocks.
 
-### 🎯 Investment Objective
+###  Investment Objective
 
 * **Primary Goal:** Construct a risk-neutral portfolio that optimizes yield while maximizing convexity.
 * **Market Outlook:** Uncertain/Volatile Interest Rate Environment.
 * **Strategy:** **Long/Short Volatility Optimization** (Barbell).
 * *Short Leg (~60%):* High Coupon, Low Duration (Income Generator).
 * *Long Leg (~40%):* High Convexity, High Duration (Capital Appreciation/Hedge).
-
-
 
 ---
 
