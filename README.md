@@ -61,14 +61,9 @@ To ensure the portfolio is resilient to shocks, I utilized the **Taylor Series e
 
 ## 📊 Portfolio Composition
 
-| Leg | Allocation | Characteristics | Role |
-| --- | --- | --- | --- |
-| **Short Leg** | ~50% | High Coupon, Low Duration | <br>**Income Generator:** Provides steady cash flow and low sensitivity to rate hikes.
-
- |
-| **Long Leg** | ~50% | High Convexity, High Duration | <br>**Insurance/Upside:** Protects against rate cuts and provides non-linear gains.
-
- |
+Leg,Allocation,Characteristics,Role in Portfolio
+Short Leg,~50% ,"High Coupon, Low Duration ",Income Generator: Provides steady cash flow and low sensitivity to rate hikes. 
+Long Leg,~50% ,"High Convexity, High Duration ",Insurance/Upside: Provides protection against rate cuts and non-linear gains via convexity. 
 
 ---
 
